@@ -128,6 +128,67 @@
 			<key>uniqueIdentifier</key>
 			<string>1567242B-4B15-48E5-9AF6-ED65506FA3D6</string>
 		</dict>
+		<key>3B6BA043-949A-4729-994F-B053DF941E5F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C45A53F4-FACC-4B64-8342-97A682D39D8C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Guess the Number-2025.01.13_19-52-56-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Guess the Number project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Guess the Number</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Guess the Number</string>
+			<key>timeStartedRecording</key>
+			<real>758479976.14784396</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Guess the Number</string>
+			<key>uniqueIdentifier</key>
+			<string>3B6BA043-949A-4729-994F-B053DF941E5F</string>
+		</dict>
 		<key>66D44040-F06B-4B84-8D00-28E06CEADB8F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
